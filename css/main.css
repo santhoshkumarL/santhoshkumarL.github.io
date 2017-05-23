@@ -1,0 +1,53 @@
+html, body 
+{
+  margin: 0;
+  padding: 0;
+  background-image: url("../img/banner.jpg");
+}
+
+* {
+  box-sizing: border-box;
+}
+.slidHeader{
+	margin-top: 10%;
+    color: white;
+    text-align: center;
+}
+.slider {
+    width: 60%;
+    margin: 100px auto;
+}
+.slick-slide {
+  margin: 0px 50px;
+}
+.slid{
+  text-align: center;
+  margin-top: 10%;
+}
+.slid h4{
+  color:white;
+}
+.navbar-inverse{
+  background-image:none !important;
+  background-color: #e6e6e6;
+  border-color: #080808;
+}
+.navbar-inverse .navbar-brand{
+  color: #34495E !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
